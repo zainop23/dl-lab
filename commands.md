@@ -1,0 +1,1 @@
+opencv/cv2 installation : pip install opencv-python
