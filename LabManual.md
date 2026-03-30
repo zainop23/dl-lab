@@ -4,8 +4,7 @@ thresholding. Display the original image, grayscale image, and binary image.
 the original image, rotated image, translated image, and combined rotated and translated image.
 3. Write a Python program to apply various image smoothing techniques on a noisy image using 
 Gaussian Blur and Median Filter and compare the effects.
-4. Implement a simple feedforward neural network to demonstrate the impact of different learning 
-rates and activation functions.
+4. Implement a simple feedforward neural network to demonstrate the impact of different learning rates and activation functions.
 5. Build a simple Artificial Neural Network (ANN) with configurable activation and loss functions. 
 Train the network using activation and loss functions.
 6. Implement the categorical cross-entropy loss function with both forward and backward passes 
