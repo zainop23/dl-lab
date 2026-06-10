@@ -1,7 +1,6 @@
 1. Write a Python program to convert a given color image to grayscale and then to binary using 
 thresholding. Display the original image, grayscale image, and binary image.
-2. Write a Python program to rotate and translate a given image using affine transformation. Display 
-the original image, rotated image, translated image, and combined rotated and translated image.
+2. Write a Python program to rotate and translate a given image using affine Display the original image, rotated image, translated image, and combined rotated and translated image.
 3. Write a Python program to apply various image smoothing techniques on a noisy image using 
 Gaussian Blur and Median Filter and compare the effects.
 4. Implement a simple feedforward neural network to demonstrate the impact of different learning rates and activation functions.
